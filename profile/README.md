@@ -1,4 +1,4 @@
-# Unlock the Power of Remote Tech Talent
+# Get The Expert Devs You're Looking For
 We provide exceptional engineering talent from Eastern Europe that fit your company's values and culture. No pre-vetted CVs, no AI matchmaking. Just real people who would love to work with you.
 
 ## 🎭 [IT Staff Augmentation](https://echoglobal.tech/staff-augmentation-services/)
@@ -13,13 +13,13 @@ Access to additional tech talent and flexible scaling are critical for businesse
 
 A managed DT model is the intermediate option between a staff augmentation and a completely outsourced solution. In this scenario, the right project manager and quality assurance specialist are the essential parts of a strong autonomous agile team. This approach allows us to share the risk and responsibility for delivering final results.
 
-## 🔎 Tech Recruitment.
+## 🔎 [Tech Recruitment](https://echoglobal.tech/tech-recruitment-services/)
 
 **Get the right candidates for your critical technical roles.**
 
 Looking for a lead back-end engineer, iOS developer, DevOps or QA expert? Look no further. With our vast experience in recruiting and a large talent pool, you can expect the first candidates in one week. We don’t charge anything to start the recruitment process. You just pay when you are 100% satisfied with your new hire.
 
-## 👀 Custom IT Staffing.
+## 👀 [Custom IT Staffing](https://echoglobal.tech/it-staffing-services/)
 
 **Hire experienced IT specialists on a part-time or full-time basis.**
 
