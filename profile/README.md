@@ -1,15 +1,15 @@
 # Unlock the Power of Remote Tech Talent
 We provide exceptional engineering talent from Eastern Europe that fit your company's values and culture. No pre-vetted CVs, no AI matchmaking. Just real people who would love to work with you.
 
-## 🎭 [IT Staff Augmentation.](https://echoglobal.tech/staff-augmentation-services/)
+## 🎭 [IT Staff Augmentation](https://echoglobal.tech/staff-augmentation-services/)
 
-Add skilled software engineers to your in-house development team.
+**Add skilled software engineers to your in-house development team.
 
 Access to additional tech talent and flexible scaling are critical for businesses that want to innovate and succeed with their software products. Even if you have a clear project roadmap and a strong core team, extra development capabilities will help you reach your goals faster. We provide seamless integration at any stage of your SDLC.
 
-## 🤠 Dedicated Teams.
+## 🤠 [Dedicated Teams](https://echoglobal.tech/dedicated-team-services/)
 
-Build a custom-tailored managed development team led by a senior PM/TL.
+**Build a custom-tailored managed development team led by a senior PM/TL.
 
 A managed DT model is the intermediate option between a staff augmentation and a completely outsourced solution. In this scenario, the right project manager and quality assurance specialist are the essential parts of a strong autonomous agile team. This approach allows us to share the risk and responsibility for delivering final results.
 
